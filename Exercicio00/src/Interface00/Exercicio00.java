@@ -78,7 +78,7 @@ public class Exercicio00 implements JFrameBaseInterfaceJava {
     @Override
     public void gerarTela() {
         jFrame = new JFrame();
-        jFrame.setSize(600, 340);
+        jFrame.setSize(625, 425);
         jFrame.setLayout(null);
         jFrame.setLocationRelativeTo(null);
         jFrame.setDefaultCloseOperation(EXIT_ON_CLOSE);
