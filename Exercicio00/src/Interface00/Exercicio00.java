@@ -57,6 +57,7 @@ public class Exercicio00 implements JFrameBaseInterfaceJava {
      jButtonSalvar.setSize(100, 20);
      jButtonCancelar.setSize(100, 20);
      jTextFieldNome.setSize(55, 60);
+     jTextAreaNome.setSize(10 , 60);
     }
 
     @Override
